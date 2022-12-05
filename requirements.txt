@@ -1,1 +1,1 @@
-zeep
+python-zeep
